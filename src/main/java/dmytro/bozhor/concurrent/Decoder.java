@@ -1,4 +1,4 @@
-package dmytro.bozhor;
+package dmytro.bozhor.concurrent;
 
 import java.io.IOException;
 import java.nio.file.Files;
