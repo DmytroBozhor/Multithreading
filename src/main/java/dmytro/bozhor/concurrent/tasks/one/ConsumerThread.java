@@ -1,4 +1,4 @@
-package dmytro.bozhor.concurrent.task;
+package dmytro.bozhor.concurrent.tasks.one;
 
 import lombok.AllArgsConstructor;
 import lombok.SneakyThrows;

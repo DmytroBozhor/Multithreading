@@ -1,8 +1,7 @@
-package dmytro.bozhor.concurrent.task;
+package dmytro.bozhor.concurrent.tasks.one;
 
 import lombok.SneakyThrows;
 
-import java.util.ArrayList;
 import java.util.LinkedList;
 
 public class ThreadRunner {
